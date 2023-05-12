@@ -1,1 +1,3 @@
 # SIMS4-CACHE-CLEANER
+
+One of my favorite games to play is the Sims 4. I have over 77 gigabytes of custom conent and mods in my game which is a significant amount. Deleting cache files in the Sims 4 documents folder has been shown to increase speed and overall functionality especially when playing with numerous mods. I have made it a habit to manually delete the two cache files the game generates every play before I start the game. I realized I could make this process simpler by creating a batch file that will find and delete the cache files in one click instead of manually going into the documents folder and deleting the two files. 
